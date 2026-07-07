@@ -9,7 +9,7 @@ This directory contains sample configuration files used in the Splunk-Wazuh Home
 | `inputs.conf` | Configures log collection for the Splunk Universal Forwarder. |
 | `outputs.conf` | Defines the destination Splunk server for forwarding logs. |
 | `ossec.conf` | Main configuration file for the Wazuh Manager. |
-| `agent.conf` | Centralized configuration for Wazuh agents. |
+
 
 ## Note
 
