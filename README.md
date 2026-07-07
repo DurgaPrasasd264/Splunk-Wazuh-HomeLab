@@ -129,6 +129,8 @@ Screenshots will be added for:
 
 - Splunk Enterprise Dashboard
 - Splunk Enterprise Security Dashboard
+
+   ![](https://github.com/DurgaPrasasd264/Splunk-Wazuh-Homelab/Screenshots/images1)
 - Wazuh Dashboard
 - Windows Event Viewer
 - Wazuh Agent
