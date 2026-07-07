@@ -130,14 +130,18 @@ Screenshots will be added for:
 - Splunk Enterprise Dashboard
 - Splunk Enterprise Security Dashboard
 
-   ![](https://github.com/DurgaPrasasd264/Splunk-Wazuh-Homelab/Screenshots/images1)
+   ![](Screenshots/image1.png)
+   ![](Screenshots/image2.png)
+   ![](Screenshots/image3.png)
+   ![](Screenshots/image4.png)
+   ![](Screenshots/image5.png)
+  
 - Wazuh Dashboard
+   ![](Screenshots/image6.png)
+   ![](Screenshots/image7.png)
 - Windows Event Viewer
-- Wazuh Agent
-- Splunk Universal Forwarder
-- Search & Reporting
-- Detection Use Cases
-
+   ![](Screenshots/image9.png)
+   ![](Screenshots/image10.png)
 ---
 
 ## 🔍 Detection Use Cases
